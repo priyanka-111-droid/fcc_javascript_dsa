@@ -1,3 +1,3 @@
-# Freecodecamp Javascript Data structures and algorithms solutions
+# Freecodecamp Solutions for Javascript Algorithms and Data structures Projects
 
-Freecodecamp Javascript Data structures and algorithms solutions
+Freecodecamp Solutions for Javascript Algorithms and Data structures Projects
